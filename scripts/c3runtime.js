@@ -1459,7 +1459,6 @@ self.C3_ExpressionFuncs = [
 		() => "",
 		() => "Explosion",
 		() => 1.5,
-		() => "YouDiedPanel",
 		() => 10,
 		() => 20,
 		() => 30,
@@ -1500,6 +1499,7 @@ self.C3_ExpressionFuncs = [
 		() => 2,
 		() => "Finished",
 		() => 0.5,
+		() => "YouDiedPanel",
 		() => 70,
 		() => "Music",
 		() => 0.2,
@@ -1708,8 +1708,7 @@ self.C3_ExpressionFuncs = [
 		() => 0.8,
 		() => "SummaryStar1",
 		() => "SummaryStar2",
-		() => "SummaryStar3",
-		() => "MidgameVideoAds"
+		() => "SummaryStar3"
 ];
 
 
